@@ -1,0 +1,3 @@
+[submodule "boston-311-mcp-starter"]
+	path = boston-311-mcp-starter
+	url = https://github.com/subconscious-systems/boston-311-mcp-starter.git

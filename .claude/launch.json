@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "boston-311-next-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "boston-311-mcp-starter"],
+      "port": 3000
+    },
+    {
+      "name": "boston-311-next-dev-no-tunnel",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev:no-tunnel", "--prefix", "boston-311-mcp-starter"],
+      "port": 3000
+    }
+  ]
+}
