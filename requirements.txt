@@ -1,0 +1,3 @@
+primfunctions
+voicerun_completions
+voicerun-cli
